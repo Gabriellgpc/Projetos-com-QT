@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\sudoku_window.o
+./debug\tabelanumerica.o
+./debug\UFRN.o
+./debug\ECT.o
+./debug\unid.o
+./debug\sudoku.o
+./debug\sudoku.o
+./debug\moc_sudoku_window.o
+./debug\moc_tabelanumerica.o
+);

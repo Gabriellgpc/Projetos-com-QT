@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1510953645 source:d:\onedrive\ufrn ect 2017.2\pa\unid 3\projeto final\whatsprog_servidor\dados_whatsprog.cpp
+	"dados_whatsprog.h"
+
+1510963103 d:\onedrive\ufrn ect 2017.2\pa\unid 3\projeto final\whatsprog_servidor\dados_whatsprog.h
+	<string>
+	<stdint.h>
+
+1511649373 source:d:\onedrive\ufrn ect 2017.2\pa\unid 3\projeto final\whatsprog_servidor\main.cpp
+	<iostream>
+
+1510961248 source:d:\onedrive\ufrn ect 2017.2\pa\unid 3\projeto final\whatsprog_servidor\winsocket.cpp
+	<iostream>
+	"winsocket.h"
+
+1510964397 d:\onedrive\ufrn ect 2017.2\pa\unid 3\projeto final\whatsprog_servidor\winsocket.h
+	<iostream>
+	<cstdlib>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<string>
+

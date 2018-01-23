@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\sudoku_window.o
+./release\tabelanumerica.o
+./release\UFRN.o
+./release\ECT.o
+./release\unid.o
+./release\sudoku.o
+./release\sudoku.o
+./release\moc_sudoku_window.o
+./release\moc_tabelanumerica.o
+);
